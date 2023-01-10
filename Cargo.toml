@@ -4,5 +4,5 @@ version = "0.1.1"
 authors = ["Juggle Tux <juggle-tux@users.noreply.github.com>"]
 
 [dependencies]
-byteorder = "1.2.1"
+byteorder = "1.4.3"
 failure = "0.1.5"
