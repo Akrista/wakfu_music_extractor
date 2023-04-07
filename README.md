@@ -13,11 +13,11 @@ Just drag and drop the .pki file into the executable on windows. Of course, you 
 Windows:
 
 ```powershell
-wakfu_music_extractor.exe file.pki
+wakfu_music_extractor.exe file.pk
 ```
 
 Linux:
 
 ```bash
-wakfu_music_extractor file.pki
+wakfu_music_extractor file.pk
 ```
